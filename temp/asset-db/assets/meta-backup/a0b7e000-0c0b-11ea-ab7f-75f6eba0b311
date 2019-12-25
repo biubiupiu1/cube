@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.84",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "7d37dc9c-afa2-40dd-84bb-836364e26ac5",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/gamePlay/wxRankList.js",
+    "importAsPlugin": false
+  }
+}

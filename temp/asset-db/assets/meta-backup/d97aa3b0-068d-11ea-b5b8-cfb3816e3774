@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "d9a262d2-f4d7-4883-851e-dee765320d2c",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/config/KEY.ts",
+    "importAsPlugin": false
+  }
+}

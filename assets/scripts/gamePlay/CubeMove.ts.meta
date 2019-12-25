@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "1dcc4ebc-cb90-431a-bc7f-51a249dce1dc",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/gamePlay/CubeMove.ts",
+    "importAsPlugin": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "file2uuids": {},
+  "uuid2uuids": {
+    "1baf0fc9-befa-459c-8bdd-af1a450a0319": [
+      "c0cd0797-30b0-4265-867f-55cc024dc82d",
+      "ad2fabce-0885-4a99-a54f-5321f5948b5f",
+      "3b297881-1fac-4272-a234-491ccc3dfe8c",
+      "d8ff61b7-0508-4d4f-85a4-921720d13b8a",
+      "6c0c597f-46d2-4efe-81bb-8f4d108ae068"
+    ],
+    "d1346436-ac96-4271-b863-1f4fdead95b0": [
+      "d8ff61b7-0508-4d4f-85a4-921720d13b8a",
+      "6c0c597f-46d2-4efe-81bb-8f4d108ae068"
+    ]
+  }
+}

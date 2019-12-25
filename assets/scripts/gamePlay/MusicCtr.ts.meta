@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6b3128a7-ce56-4294-a08f-6b053a4893fa",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/gamePlay/MusicCtr.ts",
+    "importAsPlugin": false
+  }
+}

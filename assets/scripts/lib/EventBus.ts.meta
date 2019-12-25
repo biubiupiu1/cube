@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "1e20a438-f5dd-46ef-90de-2b293180a1ed",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/lib/EventBus.ts",
+    "importAsPlugin": false
+  }
+}

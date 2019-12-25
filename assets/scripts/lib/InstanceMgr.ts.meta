@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "768ee89d-0c9a-4a2c-853b-e25502a4c7ab",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/lib/InstanceMgr.ts",
+    "importAsPlugin": false
+  }
+}

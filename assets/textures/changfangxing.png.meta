@@ -1,0 +1,56 @@
+{
+  "ver": "1.0.16",
+  "importer": "image",
+  "imported": true,
+  "uuid": "a3525e42-4f8b-49f2-9fce-c1a32038037d",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "f9941": {
+      "ver": "1.0.7",
+      "importer": "sprite-frame",
+      "name": "spriteFrame",
+      "id": "f9941",
+      "displayName": "changfangxing",
+      "uuid": "a3525e42-4f8b-49f2-9fce-c1a32038037d@f9941",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -1,
+        "trimX": 3,
+        "trimY": 2,
+        "width": 470,
+        "height": 93,
+        "rawWidth": 476,
+        "rawHeight": 95,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a3525e42-4f8b-49f2-9fce-c1a32038037d",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "a3525e42-4f8b-49f2-9fce-c1a32038037d@f9941"
+  }
+}

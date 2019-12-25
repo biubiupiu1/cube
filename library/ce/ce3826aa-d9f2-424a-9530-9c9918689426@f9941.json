@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "ce3826aa-d9f2-424a-9530-9c9918689426",
+    "name": "voice_close",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 3,
+      "width": 101,
+      "height": 104
+    },
+    "offset": {
+      "x": -1,
+      "y": -1.5
+    },
+    "originalSize": {
+      "width": 107,
+      "height": 107
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

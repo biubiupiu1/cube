@@ -1,0 +1,56 @@
+{
+  "ver": "1.0.16",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d26b01e1-161d-4611-9ec2-5171ca3960a3",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "f9941": {
+      "ver": "1.0.7",
+      "importer": "sprite-frame",
+      "uuid": "d26b01e1-161d-4611-9ec2-5171ca3960a3@f9941",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 256,
+        "height": 256,
+        "rawWidth": 256,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d26b01e1-161d-4611-9ec2-5171ca3960a3",
+        "atlasUuid": ""
+      },
+      "displayName": "reset",
+      "id": "f9941",
+      "name": "spriteFrame"
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "d26b01e1-161d-4611-9ec2-5171ca3960a3@f9941"
+  }
+}

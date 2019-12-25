@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "41c38f70-5638-4b61-b172-40d91c50a005",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/gamePlay/CubeCtr.ts",
+    "importAsPlugin": false
+  }
+}

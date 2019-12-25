@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "34d13358-9c7e-45db-ad82-191430e63c48",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/gamePlay/GameCtr.ts",
+    "importAsPlugin": false
+  }
+}

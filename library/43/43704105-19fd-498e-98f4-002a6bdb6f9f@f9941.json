@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "43704105-19fd-498e-98f4-002a6bdb6f9f",
+    "name": "yueliang",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 2,
+      "width": 103,
+      "height": 105
+    },
+    "offset": {
+      "x": -1,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 107,
+      "height": 107
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

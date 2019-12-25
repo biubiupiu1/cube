@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "26e14976-e8f9-4d0c-af0c-5805d41aec38",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/gamePlay/ParticleCtr.ts",
+    "importAsPlugin": false
+  }
+}

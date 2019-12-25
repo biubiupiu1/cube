@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "dcd70059-d82b-439c-84b2-7870d6e9ceb3",
+    "name": "best_bg",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 2,
+      "width": 158,
+      "height": 51
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 162,
+      "height": 55
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

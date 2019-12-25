@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "b1580e50-4b5d-4df7-9ca3-946ddcab18dd",
+    "name": "yejian",
+    "atlas": "",
+    "rect": {
+      "x": 3,
+      "y": 7,
+      "width": 56,
+      "height": 50
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -1.5
+    },
+    "originalSize": {
+      "width": 61,
+      "height": 61
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

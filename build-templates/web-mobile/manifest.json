@@ -1,0 +1,22 @@
+{
+    "short_name": "走下去",
+    "name": "走下去",
+    "description": "一个益智类小游戏",
+    "start_url": "/game/index.html",
+    "background_color": "#343736",
+    "display": "fullscreen",
+    "theme_color": "#3367D6",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./images/icons-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "./images/icons-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}

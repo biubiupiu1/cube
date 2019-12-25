@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "a927809d-04f5-4efb-8051-3005d997f18f",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/lib/Action.ts",
+    "importAsPlugin": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "93b0204d-0cb7-45c5-b089-018916124b2d",
+    "name": "best_hg",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 1,
+      "width": 38,
+      "height": 32
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 43,
+      "height": 34
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

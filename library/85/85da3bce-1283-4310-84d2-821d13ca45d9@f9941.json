@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "85da3bce-1283-4310-84d2-821d13ca45d9",
+    "name": "taiyang",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 2,
+      "width": 103,
+      "height": 105
+    },
+    "offset": {
+      "x": -1,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 107,
+      "height": 107
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

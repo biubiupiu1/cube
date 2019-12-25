@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c1469b18-583a-4cb4-971c-53c5c11fad5a",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/gamePlay/WxRankList.ts",
+    "importAsPlugin": false
+  }
+}

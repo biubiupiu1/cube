@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "2393508d-e437-4703-bbec-5a8eff6aa5b5",
+    "name": "zuanshi_g",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 1,
+      "width": 43,
+      "height": 36
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 45,
+      "height": 38
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

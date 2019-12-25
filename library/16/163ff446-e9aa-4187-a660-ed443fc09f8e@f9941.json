@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "163ff446-e9aa-4187-a660-ed443fc09f8e",
+    "name": "bg_white",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 489,
+      "height": 859
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 489,
+      "height": 859
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

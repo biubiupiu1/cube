@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "a637f08a-fea8-46f9-8fff-3a4ee7663c34",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/gamePlay/UICtr.ts",
+    "importAsPlugin": false
+  }
+}

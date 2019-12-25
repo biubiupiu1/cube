@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "f506362f-d508-4913-b040-c79c05fe8f8a",
+    "name": "rijian",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 1,
+      "width": 58,
+      "height": 60
+    },
+    "offset": {
+      "x": -0.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 61,
+      "height": 61
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

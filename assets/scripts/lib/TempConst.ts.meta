@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "757b23f5-83c6-496d-876b-e016fa2f7c25",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/lib/TempConst.ts",
+    "importAsPlugin": false
+  }
+}

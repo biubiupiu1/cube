@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.84",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "88c043ac-fafb-4fda-b036-8e0d104197a2",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/lib/runtime.js",
+    "importAsPlugin": false
+  }
+}

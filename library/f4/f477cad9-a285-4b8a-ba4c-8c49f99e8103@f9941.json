@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "f477cad9-a285-4b8a-ba4c-8c49f99e8103",
+    "name": "title_rank",
+    "atlas": "",
+    "rect": {
+      "x": 29,
+      "y": 14,
+      "width": 252,
+      "height": 71
+    },
+    "offset": {
+      "x": -6,
+      "y": 1
+    },
+    "originalSize": {
+      "width": 322,
+      "height": 101
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "a3525e42-4f8b-49f2-9fce-c1a32038037d",
+    "name": "changfangxing",
+    "atlas": "",
+    "rect": {
+      "x": 3,
+      "y": 2,
+      "width": 470,
+      "height": 93
+    },
+    "offset": {
+      "x": 0,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 476,
+      "height": 95
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

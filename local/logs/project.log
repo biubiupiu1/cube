@@ -1,0 +1,23 @@
+2019-12-25 14:47:56-warn: [Window] Error: [20406]授权客户端不存在。
+2019-12-25 14:48:15-log: preferences@1.0.0 enable
+2019-12-25 14:48:18-log: Parse [C:/CocosCreator3D_1.0.1/resources/resources/3d/engine/index.ts] : walk 481  files.
+2019-12-25 14:48:18-log: Parse [C:/CocosCreator3D_1.0.1/resources/resources/3d/engine/index.ts]: 2685.383ms
+2019-12-25 14:48:18-log: QuickCompiler compileFinished: 53.881ms
+2019-12-25 14:48:18-log: QuickCompiler rebuild finished: 2885.359ms
+2019-12-25 14:48:18-log: engine@1.0.0 enable
+2019-12-25 14:48:18-log: asset-db@1.0.0 enable
+2019-12-25 14:48:18-log: console@1.0.0 enable
+2019-12-25 14:48:18-log: scene@1.0.0 enable
+2019-12-25 14:48:18-log: ui-kit@1.0.0 enable
+2019-12-25 14:48:18-log: assets@1.0.0 enable
+2019-12-25 14:48:18-log: inspector@1.0.0 enable
+2019-12-25 14:48:18-log: hierarchy@1.0.0 enable
+2019-12-25 14:48:18-log: packager@1.0.0 enable
+2019-12-25 14:48:18-log: project-setting@1.0.0 enable
+2019-12-25 14:48:18-log: preview@1.0.0 enable
+2019-12-25 14:48:19-log: builder@1.0.0 enable
+2019-12-25 14:48:19-log: animator@1.0.0 enable
+2019-12-25 14:48:19-log: about@1.0.0 enable
+2019-12-25 14:48:19-log: tester@1.0.0 enable
+2019-12-25 14:48:19-log: ipc@1.0.0 enable
+2019-12-25 14:48:19-log: profile@1.0.0 enable
