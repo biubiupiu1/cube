@@ -140,7 +140,7 @@
           "subContext": "sub",
           "taskName": "wechatgame"
         },
-        "message": "build success in 4721 ms!"
+        "message": "build success in 18237 ms!"
       },
       {
         "id": "web-mobile",
@@ -203,7 +203,7 @@
           "subContext": "sub",
           "taskName": "web-mobile"
         },
-        "message": "build success in 7367 ms!"
+        "message": "build success in 4864 ms!"
       }
     ]
   },

@@ -6,7 +6,7 @@ const MODE = {
     level: '#ffffff'
   },
   white: {
-    bg: '#46D691',
+    bg: '#49e3ce',
     cube: '#CACACA',
     title: '#000000',
     level: '#000000'

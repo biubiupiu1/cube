@@ -140,16 +140,22 @@ export class GameCtr extends Component {
     //this.gameUI.active = false;
     InstanceMgr.UICtr.initLevelTitle(this._level);
     this.gameData = JSON.parse(JSON.stringify(data[this._level - 1]));
-    this.buildCube();
+    this.buildCube().then(() => {
+      if (!this._isFirst) InstanceMgr.TargetCtr.enabled = true;
+    });
   }
 
   startGame() {
+    // 针对第一次初始化的特殊处理
+
     this.curState = EGameSate.GAMING;
 
-    InstanceMgr.TargetCtr.enabled = true;
     InstanceMgr.UICtr.hideStartUI();
     if (!this._isFirst) this.init();
-    else this._isFirst = false;
+    else {
+      InstanceMgr.TargetCtr.enabled = true;
+      this._isFirst = false;
+    }
 
     InstanceMgr.MusicCtr.play('start');
   }
@@ -158,7 +164,6 @@ export class GameCtr extends Component {
     //TODO
     InstanceMgr.UICtr.hideOverUI();
     this.curState = EGameSate.GAMING;
-    InstanceMgr.TargetCtr.enabled = true;
     this.init();
     InstanceMgr.MusicCtr.play('start');
   }
@@ -232,7 +237,7 @@ export class GameCtr extends Component {
     let len = nodeArr.length;
 
     //方块生成开始动画
-    nodeArr.reduce((acc, item, index) => {
+    let pro = nodeArr.reduce((acc, item, index) => {
       return acc.then(
         () =>
           new Promise((resolve, reject) => {
@@ -251,6 +256,8 @@ export class GameCtr extends Component {
           })
       );
     }, Promise.resolve());
+
+    return pro;
   }
 
   destroyCube(newDir: number) {

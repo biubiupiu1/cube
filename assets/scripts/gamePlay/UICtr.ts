@@ -99,13 +99,16 @@ export class UICtr extends Component {
     });
     this.init();
     let { width, height } = view.getVisibleSize();
-    console.log(width / height);
     v3_t.set(0.7, 0.7, 0.7);
-    this.btnNode.setScale(v3_t);
-    this.startUI.setScale(v3_t);
-    this.overtUI.setScale(v3_t);
-    this.resetBtn.setScale(v3_t);
-    this.rankWrap.setScale(v3_t);
+    let scale = width / height;
+    console.log(scale, width, height);
+    if (scale > 0.7) {
+      this.btnNode.setScale(v3_t);
+      this.startUI.setScale(v3_t);
+      this.overtUI.setScale(v3_t);
+      this.resetBtn.setScale(v3_t);
+      this.rankWrap.setScale(v3_t);
+    }
   }
 
   init() {
@@ -314,6 +317,10 @@ export class UICtr extends Component {
   resetBtnClick(event: EventTouch, type) {
     let target = event.currentTarget as Node;
     let aniCom = target.getComponent(AnimationComponent);
+
+    // 防止重置游戏的时候触摸事件
+    InstanceMgr.TargetCtr.enabled = false;
+
     InstanceMgr.GameCtr.init();
     InstanceMgr.MusicCtr.play('click');
     aniCom.play('btnClick');
